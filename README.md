@@ -1,7 +1,7 @@
 # DEPENDANCIES #
-! nh-context ! ~ Can be replaced with target/menu of your choice
-! nh-keyboard ! ~ Can be replaced with input method of your choice
-! qb-core !
+nh-context ~ Can be replaced with target/menu of your choice
+nh-keyboard ~ Can be replaced with input method of your choice
+qb-core
 
 # qb-newsjob
 News Job For QB-Core
